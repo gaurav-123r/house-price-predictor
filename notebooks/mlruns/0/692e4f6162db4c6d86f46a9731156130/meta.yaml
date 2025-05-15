@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Python/langgraph/mlopswork/house-price-predictor/notebooks/mlruns/0/692e4f6162db4c6d86f46a9731156130/artifacts
+end_time: 1747298487151
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 692e4f6162db4c6d86f46a9731156130
+run_name: GradientBoosting
+run_uuid: 692e4f6162db4c6d86f46a9731156130
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747298480571
+status: 3
+tags: []
+user_id: Relanto

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Python/langgraph/mlopswork/house-price-predictor/notebooks/mlruns/0/3d3f20f601d24e16b6fa04678ea27335/artifacts
+end_time: 1747287789079
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3d3f20f601d24e16b6fa04678ea27335
+run_name: LinearRegression
+run_uuid: 3d3f20f601d24e16b6fa04678ea27335
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747287776949
+status: 3
+tags: []
+user_id: Relanto
